@@ -1,4 +1,4 @@
-# Hi there, I'm Serref! 👋
+# Hi, I'm Serref! 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=sjaguraga&show_icons=true&theme=radical"/>
 
