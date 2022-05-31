@@ -6,7 +6,7 @@ Want to connect? Checkout my Linkedin
 
 ------------------
 
-[![Linkedin Badge](https://img.shields.io/badge/-Will&nbsp;Yu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serref-jaguraga-2827041b6/)
+[![Linkedin Badge](https://img.shields.io/badge/-Serref&nbsp;Jaguraga-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serref-jaguraga-2827041b6/)
 <img src="https://komarev.com/ghpvc/?username=serrefjaguraga&style=flat-square&color=blue" alt=""/>
 
 
