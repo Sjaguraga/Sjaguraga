@@ -1,5 +1,15 @@
 # Hi, I'm Serref! 👋
 
+## I am a software engineer based in NYC
+
+Want to connect? Checkout my Linkedin 
+
+------------------
+
+[![Linkedin Badge](https://img.shields.io/badge/-Will&nbsp;Yu-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/💻-serref-jaguraga-2827041b6)
+<img src="https://komarev.com/ghpvc/?username=serrefjaguraga&style=flat-square&color=blue" alt=""/>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=sjaguraga&show_icons=true&theme=radical"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjaguraga&layout=compact"/>
